@@ -47,7 +47,8 @@ Only two basic pre-process steps, image normalization and RGB-to-grayscale are i
 ![ccc][image3]
 
 ###### 2. Final model architecture 
-My final model consisted of the following layers.
+My final model consisted of the following layers
+
 | Layer         		|     Description	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | Input         		| 32x32x1 grayscale image 						| 
